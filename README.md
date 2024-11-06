@@ -1,3 +1,3 @@
 ## Haaga Helia Project
 
-- Tech: Javascript, html
+- Tech: Javascript, html, css.
