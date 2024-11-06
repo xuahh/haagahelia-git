@@ -1,1 +1,1 @@
-*** Haaga Helia Project ***
+## Haaga Helia Project
